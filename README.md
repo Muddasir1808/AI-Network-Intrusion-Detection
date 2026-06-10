@@ -1,5 +1,5 @@
 # Network Intrusion Detection System
-**AI Semester Project — Saad Ahmad**
+**AI Semester Project **
 
 ---
 
