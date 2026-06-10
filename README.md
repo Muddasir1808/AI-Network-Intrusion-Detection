@@ -1,16 +1,16 @@
-# 🛡️ Network Intrusion Detection System (NIDS)
+#  Network Intrusion Detection System (NIDS)
 
 A machine learning project that detects network intrusions using classical AI and ML techniques on the NSL-KDD inspired dataset (6,000 records, 15 features).
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Network Intrusion Detection Systems (NIDS) monitor network traffic and raise alerts when suspicious activity is detected. This project applies multiple AI and ML approaches to classify network connections as **Normal (0)** or **Attack (1)**.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 AI-Network-Intrusion-Detection/
@@ -24,7 +24,7 @@ AI-Network-Intrusion-Detection/
 
 ---
 
-## ✅ Tasks Implemented
+##  Tasks Implemented
 
 | Task | Description | Accuracy |
 |------|-------------|----------|
@@ -38,7 +38,7 @@ AI-Network-Intrusion-Detection/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3.10
 - **Libraries:** scikit-learn, pandas, numpy, matplotlib
@@ -46,7 +46,7 @@ AI-Network-Intrusion-Detection/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
@@ -72,7 +72,7 @@ Run all cells from top to bottom (**Kernel → Restart & Run All**).
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - **Best Classifier:** KNN (k=1) with **95.7% accuracy**
 - **Unsupervised Clustering:** K-Means recovered 87% of true class structure without labels
@@ -80,18 +80,16 @@ Run all cells from top to bottom (**Kernel → Restart & Run All**).
 
 ---
 
-## 👤 Author
+##  Author
 
 **Muhammad Muddasir**  
-Roll No: 24P-0524  
 BS Computer Science — 3rd Year  
 FAST National University, Hyderabad
 
 ---
 
-## 📚 Course
+##  Course
 
 **Artificial Intelligence**  
-Instructor: Saad Ahmed  
 FAST National University
 
